@@ -1,0 +1,24 @@
+#container {
+  width: 750px;
+  height: 800px;
+  background-color: transparent;
+  margin: 0px auto;
+}
+h1 {
+  font-weight: bold;
+}
+p {
+  font-size: normal;
+  width: 600px;
+}
+#images {
+  display: inline-block;
+  vertical-align: top;
+  width: 200px;
+  height: 200px;
+}
+.beer {
+  width: 350px;
+  height: 300px;
+  margin: 5px;
+}
